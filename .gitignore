@@ -1,0 +1,9 @@
+# Mengabaikan berkas kredensial & rahasia
+*.env
+kredensial*.txt
+passwords.txt
+*.log
+
+# Mengabaikan folder environment
+.env/
+venv/
